@@ -1,0 +1,6 @@
+{
+  "maxCorners": 1000,
+  "qualityLevel": 0.2,
+  "minDistance": 2,
+  "blockSize": 7
+}
